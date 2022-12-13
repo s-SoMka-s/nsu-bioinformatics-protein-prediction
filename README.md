@@ -7,7 +7,7 @@ MDKGDVTALPMKKWFTTNYHYLVPEVEPSAEIKLNSTKPFDEFNEAKSLGVETKPVFIGPYTFLKLARTPEAAELEIDKG
 [OmegaFold](https://colab.research.google.com/github/aqlaboratory/openfold/blob/main/notebooks/OpenFold.ipynb)
 
 #### Программа-выравниватель: [mulPBA](https://www.dsimb.inserm.fr/dsimb_tools/mulpba/)
-на оффициальном сайте при попытке провести выравнивание двух файлов всплывает сообщение, что mulPBA не очень подходит для парного выравнивания и лучше это сделать на [другом](https://www.dsimb.inserm.fr/dsimb_tools/ipba/index.php) их сервере с аналогичным функционалом
+на оффициальном сайте при попытке провести выравнивание двух файлов всплывает сообщение, что mulPBA не очень подходит для парного выравнивания и лучше это сделать на [другом](https://www.dsimb.inserm.fr/dsimb_tools/ipba/index.php) их сервере с аналогичным функционалом <br />
 ![error](./staff/error.jpg)
 
 
@@ -24,5 +24,5 @@ MDKGDVTALPMKKWFTTNYHYLVPEVEPSAEIKLNSTKPFDEFNEAKSLGVETKPVFIGPYTFLKLARTPEAAELEIDKG
 ![1](./visualization/1.png)
 ![2](./visualization/2.png)
 ![3](./visualization/3.png)
-5. Вывод: <br>
+5. Вывод: <br />
 Видно, что предсказания довольно близки, но всё таки имеются некоторые отличия
